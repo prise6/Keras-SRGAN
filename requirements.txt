@@ -1,0 +1,6 @@
+tensorflow==1.11.0
+keras==2.2.4
+numpy==1.8.2
+matplotlib
+scikit-image
+scipy==1.1.0
